@@ -9,7 +9,7 @@ busywork off researchers and educators.
 
 <p>
   <a href="https://xenomorph27.github.io"><img src="https://img.shields.io/badge/site-xenomorph27.github.io-00ff41?style=for-the-badge&labelColor=000000" alt="Website"></a>
-  <img src="https://img.shields.io/badge/public_repos-6-00ff41?style=for-the-badge&labelColor=000000" alt="6 public repos">
+  <img src="https://img.shields.io/badge/public_repos-8-00ff41?style=for-the-badge&labelColor=000000" alt="8 public repos">
   <img src="https://img.shields.io/badge/species_recognised-52-00ff41?style=for-the-badge&labelColor=000000" alt="52 species recognised">
   <img src="https://img.shields.io/badge/deployed-2-00ff41?style=for-the-badge&labelColor=000000" alt="2 deployed">
 </p>
